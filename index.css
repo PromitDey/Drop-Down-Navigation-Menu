@@ -1,0 +1,211 @@
+.logo{
+    text-align: left;
+}
+a{
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color : black;
+    text-shadow: .1px .1px .1px black;
+}
+li{
+    list-style: none;
+}
+.section1{
+    overflow : hidden;
+}
+
+.section1 {
+    float : left;
+    font-size : 16px;
+    color : black;
+    text-align : justify;
+    margin-left: 10px;
+    text-decoration: none;
+}
+.section2{
+    overflow : hidden;
+}
+
+.section2{
+    float : left;
+    font-size : 16px;
+    color : black;
+    text-align : justify;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.section3 {
+    overflow : hidden;
+}
+.section3{
+    float : left;
+    font-size : 16px;
+    color : black;
+    text-align : justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.section4{
+    overflow: hidden;
+}
+.section4{
+    float : left;
+    font-size : 16px;
+    color : black;
+    text-align : justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+
+.dropdown{
+    position: relative;
+    float : none;
+    overflow : hidden;
+}
+.drop-btn{
+    font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+.dropdown .drop-btn{
+    font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.drop-btn:hover{
+    background-color: rgb(243, 243, 243);
+}
+
+.dropdown-content-1{    
+    position: absolute;
+    float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.dropdown-content-2{    
+    position: absolute;
+    float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.dropdown-content a{
+    color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content-1{
+    display: block;
+}
+.dropdown-content-2{
+    display: block;
+}
+.login{
+    text-align: right;
+}
+.register{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top : 10px;
+    padding-bottom: 10px;
+    border: 1px 1px 1px rgb(63, 63, 63);
+    border-radius: 10px;
+    cursor:pointer;
+    overflow: hidden; 
+    font-size: 15px;
+}
+.register:hover{
+    cursor: pointer;
+    box-shadow: 2.5px 2.5px 2.5px black;
+    transition: 0.5s;
+}
+.des{
+    font-family: 'epilogue';
+    padding-top: 40px;
+    font-size: 40px;
+    margin-left: 105px;
+}
+.udes{
+    margin-top: -60px;
+    
+}
+.hero img{
+    position : relative;
+    margin-top: -370px;
+    left : 900px;
+    height: 550px;
+}
+
+.body{
+    font-size: 20px;
+    margin-top: -20px;
+    margin-left: 105px;
+}
+
+.learn{
+    margin-left: 105px;
+    font-size: 200px;
+
+}
+.learn-btn{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top : 10px;
+    padding-bottom: 10px;
+    border: 1px 1px 1px rgb(63, 63, 63);
+    border-radius: 10px;
+    cursor:pointer;
+    overflow: hidden; 
+    font-size: 15px;
+}
+.learn-btn:hover{
+    cursor: pointer;
+    box-shadow: 2.5px 2.5px 2.5px black;
+    transition: 0.5s;
+}
+
+.bottom{
+    margin-left: 105px;
+    margin-top: -80px;
+    padding: 10px;
+    
+}
+.img1{
+    margin-left: 30px;
+}
+.img2{
+    margin-left: 30px;
+}
+.img3{
+    margin-left: 30px;
+}
